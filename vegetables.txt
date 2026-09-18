@@ -1,3 +1,4 @@
 broccoli
 onion
 cabbage
+capsicum
